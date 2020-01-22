@@ -1,0 +1,2 @@
+tsc third.ts
+
