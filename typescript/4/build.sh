@@ -1,0 +1,2 @@
+tsc fourth.ts
+
